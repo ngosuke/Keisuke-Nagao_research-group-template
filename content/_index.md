@@ -8,15 +8,16 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Bioelectronics Group
       image:
         filename: welcome.jpg
       text: |
         <br>
-        
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
-  
+        Welcome to the **Bioelectronics** Group at MIT.
+
+        Our lab works at the interface of materials science, electronics, and neurobiology with the goal of advancing the understanding and treatment of disorders of the nervous system.
+        We design, synthesize, and fabricate optoelectronic and magnetic devices that manipulate and record neuronal activity and development.
+ 
   - block: collection
     content:
       title: Latest News
